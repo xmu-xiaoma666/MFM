@@ -48,3 +48,18 @@ python grid_emfm.py --exp_name Grid_EMFM --batch_size 50 --rl_batch_size 100 --w
 ```python
 python eval.py --batch_size 50 --exp_name MFM --features_path your_feature_path --annotation /home/data/m2_annotations
 ```
+
+## Citation
+```
+@ARTICLE{
+    ji2022koniwing,  
+    author={Ji, Jiayi and Ma, Yiwei and Sun, Xiaoshuai and Zhou, Yiyi and Wu, Yongjian and Ji, Rongrong},  
+    journal={IEEE Transactions on Image Processing},   
+    title={Knowing What to Learn: A Metric-Oriented Focal Mechanism for Image Captioning},   
+    year={2022},  
+    volume={31},  
+    number={},  
+    pages={4321-4335},  
+    doi={10.1109/TIP.2022.3183434}
+    }
+```
