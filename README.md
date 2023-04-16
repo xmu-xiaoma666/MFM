@@ -1,6 +1,5 @@
 # Knowing What to Learn: A Metric-Oriented Focal Mechanism for Image Captioning
 
-An official implementation for ["Knowing What to Learn: A Metric-Oriented Focal Mechanism for Image Captioning"](https://ieeexplore.ieee.org/document/9802801)
 
 ## Motivation
 
